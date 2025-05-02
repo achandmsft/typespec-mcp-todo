@@ -1,12 +1,11 @@
-# typespec-mcp-todo
-A simple TODO MCP server fully vibecoded using the TypeSpec MCP Server in GitHub Copilot Agent mode with OpenAI GPT 4.1 model
+# TypeSpec based local TODO MCP Server
+A TODO MCP server fully vibecoded using the [TypeSpec MCP Server Demo Script](https://github.com/bterlson/typespec-mcp/wiki/Demo-Script) in GitHub Copilot Agent mode with OpenAI GPT 4.1 model. 
 
 ## Setup Instructions
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd demo-3
+   git clone https://github.com/achandmsft/typespec-mcp-todo.git
    ```
 
 2. **Install dependencies:**
