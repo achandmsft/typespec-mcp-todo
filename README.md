@@ -1,8 +1,12 @@
 # TypeSpec based local TODO MCP Server
 A TODO MCP server fully vibecoded using the [TypeSpec MCP Server Demo Script](https://github.com/bterlson/typespec-mcp/wiki/Demo-Script) in GitHub Copilot Agent mode with OpenAI GPT 4.1 model. 
 
-## Setup Instructions
+## Prerequisites
+1. Install [VS Code](https://code.visualstudio.com/)
+2. Install [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) and [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) extensions
+3. Install [NodeJS](https://nodejs.org/en) (needs v22+)
 
+## Setup Instructions
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/achandmsft/typespec-mcp-todo.git
@@ -45,8 +49,5 @@ A TODO MCP server fully vibecoded using the [TypeSpec MCP Server Demo Script](ht
 }
 ```
 
-## Notes
 
-- Ensure you have Node.js and npm installed on your system.
-- The `node_modules` folder is excluded from the repository. Use `npm install` to recreate it locally.
 
