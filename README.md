@@ -36,5 +36,4 @@ A TODO MCP server fully vibecoded using the [TypeSpec MCP Server Demo Script](ht
 
 - Ensure you have Node.js and npm installed on your system.
 - The `node_modules` folder is excluded from the repository. Use `npm install` to recreate it locally.
-```
 
