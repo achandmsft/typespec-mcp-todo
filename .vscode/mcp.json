@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "Local TODO MCP Server": {
+      "command": "node",
+      "args": ["${workspaceFolder}/dist/src/mcp-server.js"]
+    }
+  }
+}

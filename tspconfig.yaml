@@ -1,0 +1,4 @@
+emit:
+  - typespec-mcp-server-js
+options:
+  typespec-mcp-server-js: {}
